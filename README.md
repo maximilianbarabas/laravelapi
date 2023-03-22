@@ -7,6 +7,6 @@ Recommend step
 3. open new terminal
 4. write "npm run dev"
 5. click on the url link and open the webpage
-6. Right corner there are login & register
+6. There are two options (login & register) at the right corner"
 7. Test Register 
 8. Logout and test Login form
